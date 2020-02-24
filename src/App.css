@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  background-color: #474747;
+}
+
+.Table {
+  padding: 10px;
+  border: 1px solid #428bca;
+  box-sizing: border-box;
+  width: 800px;
+  text-align: center;
+  background-color: #8EB5C8;
+}
+
+.txt {
+  font-weight: bolder;
+  color: #c5c5c5;
+}
+
+.btn1 {
+  border-radius: 5px;
+  width: 90px;
+}
